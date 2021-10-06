@@ -9,3 +9,5 @@ Welcome to Hacktoberfest!!!
 - Create a branch and start contributing
 - Commit changes. 
 - Create a pull request and wait. 
+
+## After adding your files add your name and profile link in the contributions.md
