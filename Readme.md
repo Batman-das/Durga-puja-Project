@@ -1,6 +1,6 @@
 # Durga puja Project
 
-Maintained By Department of Optics and Optoelectronics, University of Calcutta.
+Maintained By Department of Applied Optics and Photonics, University of Calcutta.
 
 This Project has matlab codes to calculate DFT and FFT coded in `MATLAB`, for college project.
 
