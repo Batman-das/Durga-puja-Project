@@ -1,4 +1,4 @@
-# Durga puja Project
+# Durga Puja Project
 
 Maintained By Department of Applied Optics and Photonics, University of Calcutta.
 
